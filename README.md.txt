@@ -1,0 +1,1 @@
+Solutions and materials from freecodeacademy's responsive web design course. To review, iterate upon, use as a base later etc 
